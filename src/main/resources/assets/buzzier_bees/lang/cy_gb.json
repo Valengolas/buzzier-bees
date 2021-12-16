@@ -1,0 +1,188 @@
+{
+  "item.buzzier_bees.four_leaf_clover": "Meillion Pedair Deilen",
+
+  "item.buzzier_bees.honey_wand": "Ffon Fêl",
+  "item.buzzier_bees.sticky_honey_wand": "Ffon Fêl Gludiog",
+
+  "item.buzzier_bees.honey_apple": "Afal Mêl",
+  "item.buzzier_bees.honey_bread": "Bara Mêl",
+  "item.buzzier_bees.glazed_porkchop": "Porc Gwydrog Mêl",
+
+  "item.buzzier_bees.silverfish_bottle": "Potel o Pryf Arian",
+  "item.buzzier_bees.endermite_bottle": "Potel o Endermite",
+  "item.buzzier_bees.bee_bottle": "Potel o Gwenyn",
+
+  "item.buzzier_bees.honeycomb_banner_pattern": "Patrwm Baner",
+  "item.buzzier_bees.honeycomb_banner_pattern.desc": "Diliau",
+
+  "item.buzzier_bees.grizzly_bear_spawn_egg": "Wy Genu Arth Grizzly",
+  "item.buzzier_bees.moobloom_spawn_egg": "Wy Genu Moobloom",
+
+  "block.buzzier_bees.oak_beehive": "Cwch Gwenyn Derw",
+  "block.buzzier_bees.spruce_beehive": "Cwch Gwenyn Sbriws",
+  "block.buzzier_bees.birch_beehive": "Cwch Gwenyn Bedw",
+  "block.buzzier_bees.jungle_beehive": "Cwch Gwenyn Jyngl",
+  "block.buzzier_bees.acacia_beehive": "Cwch Gwenyn Acesia",
+  "block.buzzier_bees.dark_oak_beehive": "Cwch Gwenyn Derw Tywyll",
+  "block.buzzier_bees.crimson_beehive": "Cwch Gwenyn Rhuddgoch",
+  "block.buzzier_bees.warped_beehive": "Cwch Gwenyn Annaearol",
+
+  "block.buzzier_bees.crystallized_honey_block": "Bloc Mêl Crisialu",
+
+  "block.buzzier_bees.honey_lamp" : "Lamp Mêl",
+  "block.buzzier_bees.honey_pot": "Pot Mêl",
+
+  "block.buzzier_bees.honeycomb_bricks": "Briciau Diliau",
+  "block.buzzier_bees.honeycomb_brick_stairs": "Grisiau Bricsen Diliau",
+  "block.buzzier_bees.honeycomb_brick_slab": "Slab Bricsen Diliau",
+  "block.buzzier_bees.honeycomb_brick_wall": "Wal Bricsen Diliau",
+  "block.buzzier_bees.honeycomb_brick_vertical_slab": "Slab Ferticol Bricsen Diliau",
+  "block.buzzier_bees.chiseled_honeycomb_bricks": "Briciau Diliau Nadd",
+
+  "block.buzzier_bees.honeycomb_tiles": "Teils Diliau",
+  "block.buzzier_bees.honeycomb_tile_stairs": "Grisiau Teilsen Diliau",
+  "block.buzzier_bees.honeycomb_tile_slab": "Slab Teilsen Diliau",
+  "block.buzzier_bees.honeycomb_tile_wall": "Wal Teilsen Diliau",
+  "block.buzzier_bees.honeycomb_tile_vertical_slab": "Slab Ferticol Teilsen Diliau",
+
+  "block.buzzier_bees.honeycomb_door": "Drws Diliau",
+  "block.buzzier_bees.honeycomb_trapdoor": "Drws Cudd Diliau",
+
+  "block.buzzier_bees.pink_clover": "Meillion Pinc",
+  "block.buzzier_bees.white_clover": "Meillion Gwyn",
+  "block.buzzier_bees.buttercup": "Cwpanmenyn",
+
+  "block.buzzier_bees.potted_pink_clover": "Meillion Pinc Mewn Pot",
+  "block.buzzier_bees.potted_white_clover": "Meillion Gwyn Mewn Pot",
+  "block.buzzier_bees.potted_buttercup": "Cwpanmenyn Mewn Pot",
+
+  "block.buzzier_bees.candle": "Cannwyll",
+  "block.buzzier_bees.soul_candle": "Cannwyll Enaid",
+  "block.buzzier_bees.ender_candle": "Cannwyll Ender",
+  "block.buzzier_bees.cursed_candle": "Cannwyll Melltigedig",
+
+  "block.buzzier_bees.white_candle": "Cannwyll Gwyn",
+  "block.buzzier_bees.orange_candle": "Cannwyll Oren",
+  "block.buzzier_bees.magenta_candle": "Cannwyll Magenta",
+  "block.buzzier_bees.light_blue_candle": "Cannwyll Glas Golau",
+  "block.buzzier_bees.yellow_candle": "Cannwyll Melyn",
+  "block.buzzier_bees.lime_candle": "Cannwyll Leim",
+  "block.buzzier_bees.pink_candle": "Cannwyll Pinc",
+  "block.buzzier_bees.gray_candle": "Cannwyll Llwyd",
+  "block.buzzier_bees.light_gray_candle": "Cannwyll Llwyd Golau",
+  "block.buzzier_bees.cyan_candle": "Cannwyll Cyan",
+  "block.buzzier_bees.purple_candle": "Cannwyll Porffor",
+  "block.buzzier_bees.blue_candle": "Cannwyll Glas",
+  "block.buzzier_bees.brown_candle": "Cannwyll Brown",
+  "block.buzzier_bees.green_candle": "Cannwyll Gwyrdd",
+  "block.buzzier_bees.red_candle": "Cannwyll Coch",
+  "block.buzzier_bees.black_candle": "Cannwyll Du",
+
+  "block.buzzier_bees.allium_scented_candle": "Cannwyll Persawrus Garllegyn",
+  "block.buzzier_bees.azure_bluet_scented_candle": "Cannwyll Persawrus Gwreiddrudd Las",
+  "block.buzzier_bees.blue_orchid_scented_candle": "Cannwyll Persawrus Tegeirian Glas",
+  "block.buzzier_bees.dandelion_scented_candle": "Cannwyll Persawrus Dant y Llew",
+  "block.buzzier_bees.cornflower_scented_candle": "Cannwyll Persawrus Penlas Wen",
+  "block.buzzier_bees.lily_of_the_valley_scented_candle": "Cannwyll Persawrus Lili'r Dyffrynnoedd",
+  "block.buzzier_bees.oxeye_daisy_scented_candle": "Cannwyll Persawrus Llygad-Llo",
+  "block.buzzier_bees.poppy_scented_candle": "Cannwyll Persawrus Pabi",
+  "block.buzzier_bees.white_tulip_scented_candle": "Cannwyll Persawrus Tiwlip Gwyn",
+  "block.buzzier_bees.orange_tulip_scented_candle": "Cannwyll Persawrus Tiwlip Oren",
+  "block.buzzier_bees.pink_tulip_scented_candle": "Cannwyll Persawrus Tiwlip Pinc",
+  "block.buzzier_bees.red_tulip_scented_candle": "Cannwyll Persawrus Tiwlip Coch",
+  "block.buzzier_bees.wither_rose_scented_candle": "Cannwyll Persawrus Rhosyn Wither",
+
+  "block.buzzier_bees.pink_clover_scented_candle": "Cannwyll Persawrus Meillion Pinc",
+  "block.buzzier_bees.white_clover_scented_candle": "Cannwyll Persawrus Meillion Gwyn",
+  "block.buzzier_bees.buttercup_scented_candle": "Cannwyll Persawrus Cwpanmenyn",
+
+  "block.buzzier_bees.cartwheel_scented_candle": "Cannwyll Persawrus Holwyn-Droi",
+  "block.buzzier_bees.bluebell_scented_candle": "Cannwyll Persawrus Clychau'r Gog",
+  "block.buzzier_bees.violet_scented_candle": "Cannwyll Persawrus Fioled",
+  "block.buzzier_bees.red_lotus_flower_scented_candle": "Cannwyll Persawrus Blodyn Coch Lotws",
+  "block.buzzier_bees.white_lotus_flower_scented_candle": "Cannwyll Persawrus Blodyn Gwyn Lotws",
+  "block.buzzier_bees.dianthus_scented_candle": "Cannwyll Persawrus Ceian",
+  "block.buzzier_bees.yellow_hibiscus_scented_candle": "Cannwyll Persawrus Hibiscws Melyn",
+  "block.buzzier_bees.orange_hibiscus_scented_candle": "Cannwyll Persawrus Hibiscws Oren",
+  "block.buzzier_bees.red_hibiscus_scented_candle": "Cannwyll Persawrus Hibiscws Coch",
+  "block.buzzier_bees.pink_hibiscus_scented_candle": "Cannwyll Persawrus Hibiscws Pinc",
+  "block.buzzier_bees.magenta_hibiscus_scented_candle": "Cannwyll Persawrus Hibiscws Magenta",
+  "block.buzzier_bees.purple_hibiscus_scented_candle": "Cannwyll Persawrus Hibiscws Porffor",
+
+  "block.buzzier_bees.warm_monkey_brush_scented_candle": "Cannwyll Persawrus Brwsh Mwnci Cynnes",
+  "block.buzzier_bees.hot_monkey_brush_scented_candle": "Cannwyll Persawrus Brwsh Mwnci Poeth",
+  "block.buzzier_bees.scalding_monkey_brush_scented_candle": "Cannwyll Persawrus Brwsh Mwnci Sgaldio",
+  "block.buzzier_bees.water_hyacinth_scented_candle": "Cannwyll Persawrus Hyacinth Dŵr",
+  "block.buzzier_bees.gilia_scented_candle": "Cannwyll Persawrus Gilia",
+  "block.buzzier_bees.yucca_flower_scented_candle": "Cannwyll Persawrus Blodyn Yucca",
+
+  "block.buzzier_bees.pink_searocket_scented_candle": "Cannwyll Persawrus Rocedmôr Pinc",
+  "block.buzzier_bees.white_searocket_scented_candle": "Cannwyll Persawrus Rocedmôr Gwyn",
+
+  "block.buzzier_bees.autumn_crocus_scented_candle": "Cannwyll Persawrus Crocws yr Hydref",
+
+  "entity.buzzier_bees.grizzly_bear": "Arth Grizzly",
+  "entity.buzzier_bees.moobloom": "Moobloom",
+
+  "entity.minecraft.villager.buzzier_bees.apiarist": "Gwenynwr",
+
+  "effect.buzzier_bees.sunny": "Heulog",
+
+  "item.minecraft.potion.effect.long_luck": "Diod Lwc",
+  "item.minecraft.potion.effect.strong_luck": "Diod Lwc",
+  "item.minecraft.potion.effect.unluck": "Diod Lwc Drwg",
+  "item.minecraft.potion.effect.long_unluck": "Diod Lwc Drwg",
+  "item.minecraft.potion.effect.strong_unluck": "Diod Lwc Drwg",
+
+  "item.minecraft.splash_potion.effect.long_luck": " Diod Tasgu Lwc",
+  "item.minecraft.splash_potion.effect.strong_luck": " Diod Tasgu Lwc",
+  "item.minecraft.splash_potion.effect.unluck": " Diod Tasgu Lwc Drwg",
+  "item.minecraft.splash_potion.effect.long_unluck": " Diod Tasgu Lwc Drwg",
+  "item.minecraft.splash_potion.effect.strong_unluck": " Diod Tasgu Lwc Drwg",
+
+  "item.minecraft.lingering_potion.effect.long_luck": " Diod Parhaus Lwc",
+  "item.minecraft.lingering_potion.effect.strong_luck": " Diod Parhaus Lwc",
+  "item.minecraft.lingering_potion.effect.unluck": " Diod Parhaus Lwc Drwg",
+  "item.minecraft.lingering_potion.effect.long_unluck": " Diod Parhaus Lwc Drwg",
+  "item.minecraft.lingering_potion.effect.strong_unluck": " Diod Parhaus Lwc Drwg",
+
+  "item.minecraft.tipped_arrow.effect.long_luck": "Saeth o Lwc",
+  "item.minecraft.tipped_arrow.effect.strong_luck": "Saeth o Lwc",
+  "item.minecraft.tipped_arrow.effect.unluck": "Saeth o Lwc Drwg",
+  "item.minecraft.tipped_arrow.effect.long_unluck": "Saeth o Lwc Drwg",
+  "item.minecraft.tipped_arrow.effect.strong_unluck": "Saeth o Lwc Drwg",
+
+  "advancements.buzzier_bees.husbandry.four_leaf_clover.title": "Gwell Lwc y Tro Hwn",
+  "advancements.buzzier_bees.husbandry.four_leaf_clover.description": "Dewch o hyd i Feillion Pedair Deilen",
+
+  "advancements.buzzier_bees.husbandry.honey_apple.title": "Afal y Dydd",
+  "advancements.buzzier_bees.husbandry.honey_apple.description": "Defnyddiwch Afal Mêl i wella Ymddyrchafael",
+
+  "advancements.buzzier_bees.husbandry.honey_bread.title": "Arwyddion Da",
+  "advancements.buzzier_bees.husbandry.honey_bread.description": "Defnyddiwch Bara Mêl i wella Drwgargoel",
+
+  "advancements.buzzier_bees.husbandry.glazed_porkchop.title": "Pen-glinau yn Gwan, Arfau yn Fêl",
+  "advancements.buzzier_bees.husbandry.glazed_porkchop.description": "Defnyddiwch Porc Gwydrog Mêl i wella Blinder Cloddio",
+
+  "tooltip.buzzier_bees.is_baby": "Babi",
+  "tooltip.buzzier_bees.has_nectar": "Yn Cael ei Beillio",
+  "tooltip.buzzier_bees.is_angry": "Ddig",
+  "tooltip.buzzier_bees.has_stung": "Dim Stinger",
+
+  "block.minecraft.banner.mca_honeycomb.black": "Diliau Du",
+  "block.minecraft.banner.mca_honeycomb.red": "Diliau Coch",
+  "block.minecraft.banner.mca_honeycomb.green": "Diliau Gwyrdd",
+  "block.minecraft.banner.mca_honeycomb.brown": "Diliau Brown",
+  "block.minecraft.banner.mca_honeycomb.blue": "Diliau Glas",
+  "block.minecraft.banner.mca_honeycomb.purple": "Diliau Porffor",
+  "block.minecraft.banner.mca_honeycomb.cyan": "Diliau Cyan",
+  "block.minecraft.banner.mca_honeycomb.light_gray": "Diliau Llwyd Golau",
+  "block.minecraft.banner.mca_honeycomb.gray": "Diliau Llwyd",
+  "block.minecraft.banner.mca_honeycomb.pink": "Diliau Pinc",
+  "block.minecraft.banner.mca_honeycomb.lime": "Diliau Leim",
+  "block.minecraft.banner.mca_honeycomb.yellow": "Diliau Melyn",
+  "block.minecraft.banner.mca_honeycomb.light_blue": "Diliau Glas Golau",
+  "block.minecraft.banner.mca_honeycomb.magenta": "Diliau Magenta",
+  "block.minecraft.banner.mca_honeycomb.orange": "Diliau Oren",
+  "block.minecraft.banner.mca_honeycomb.white": "Diliau Gwyn"
+}
